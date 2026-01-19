@@ -1,4 +1,4 @@
-# 🏏 IPL Match Prediction System
+# 🏏 Probabilistic Cricket Match Prediction System for Fantasy Sports
 
 > Production-ready ML system for predicting Indian Premier League cricket match outcomes with statistical rigor and uncertainty quantification
 
